@@ -1,0 +1,29 @@
+{
+  "name": "Ritik Chawla",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Software Engineer and a Bibliomane",
+  "avatar": "https://github.com/ritikchawla.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/ritikchawla",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Linkedin",
+      "url": "https://linkedin.com/in/ritikchawla",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Portfolio Website",
+      "url": "https://ritikchawla.github.io/#/",
+      "icon": "SiWebflow"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/ritikchawla",
+      "icon": "FaGithub"
+    }
+  ]
+}
